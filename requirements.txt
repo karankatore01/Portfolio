@@ -1,2 +1,4 @@
 streamlit
 Pillow
+base64
+numpy
